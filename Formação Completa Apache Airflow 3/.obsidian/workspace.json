@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "01. Introdução/00. O que é Airflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "00. O que é Airflow"
             }
           }
         ]
@@ -180,11 +180,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3618b84c06425eb8",
+  "active": "6b79ba0e8a312e16",
   "lastOpenFiles": [
+    "Material do Curso/Slides/9.Projeto Pipeline de Dados/3.1.Operadores.pdf",
+    "Material do Curso/Slides/9.Projeto Pipeline de Dados/1.2.NovaDriveMotors.pdf",
+    "Material do Curso/Slides/9.Projeto Pipeline de Dados/1.1.O projeto.pdf",
+    "Material do Curso/Slides/8.Criando Plugins/1.Criando Plugins.pdf",
+    "Material do Curso/Slides/7.Executer e Configurações/1.1.Configurações.pdf",
+    "Material do Curso/Slides/5.Mais fundamentos de Dags/9.1.TasksDinamicas.pdf",
+    "Material do Curso/Slides/5.Mais fundamentos de Dags/8.1.Sensors.pdf",
+    "Material do Curso/Slides/5.Mais fundamentos de Dags/7.1.Datasets.pdf",
+    "Material do Curso/Slides/5.Mais fundamentos de Dags/5.1.Branchs ShortCircuitOperator.pdf",
+    "Material do Curso/Slides/5.Mais fundamentos de Dags/3.1.Pools.pdf",
+    "Material do Curso/Slides/5.Mais fundamentos de Dags/10.1.Agendamentos e Timetables.pdf",
+    "01. Introdução/01. Como o Airflow Funciona.md",
+    "Imagens/Exemplo DAG.png",
+    "01. Introdução/00. O que é Airflow.md",
     "Welcome.md"
   ]
 }
