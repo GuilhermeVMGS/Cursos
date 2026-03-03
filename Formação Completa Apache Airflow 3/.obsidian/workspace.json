@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e6e35465291db099",
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b79ba0e8a312e16",
+  "active": "3618b84c06425eb8",
   "lastOpenFiles": [
     "Material do Curso/Slides/9.Projeto Pipeline de Dados/3.1.Operadores.pdf",
     "Material do Curso/Slides/9.Projeto Pipeline de Dados/1.2.NovaDriveMotors.pdf",
